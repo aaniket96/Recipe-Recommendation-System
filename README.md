@@ -84,6 +84,6 @@ My project is composed of different services (frontend,API). Therefore, our appl
 ## 🐳 Setup
   ### Run it locally
   #### Clone the repo
-    https://github.com/SanguleAKB/recipe-recommendation-sys
+    (https://github.com/aaniket96/Recipe-Recommendation-System)
   #### Clone docker hub  repo
     docker pull aniruddhasangule/recipe-app
